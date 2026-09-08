@@ -1,0 +1,38 @@
+name: Update Coding Profile Activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-codechef-heatmap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Generate CodeChef heatmap
+        run: python scripts/codechef_heatmap.py
+
+      - name: Commit updated heatmap
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/codechef-heatmap.svg
+          git diff --cached --quiet || git commit -m "chore: update CodeChef heatmap"
+          git push
