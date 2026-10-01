@@ -2,17 +2,20 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Competitive+Programming+Enthusiast+%F0%9F%A7%A0;AI+%26+Technology+Explorer+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=50&lines=Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Competitive+Programming+Enthusiast+%F0%9F%A7%A0;AI+%26+Technology+Explorer+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<br>
+<p align="center">
+  Engineering student at <strong>Aditya University</strong> — currently in my <strong>3rd semester</strong>.<br>
+  Passionate about building real-world software, solving algorithmic challenges, and exploring AI-powered applications.<br>
+  <em>Learning by doing — every project, contest, and line of code is a step forward.</em>
+</p>
 
-Engineering student at **Aditya University** — currently in my **3rd semester**. Passionate about building real-world software, solving algorithmic challenges, and exploring AI-powered applications. I believe in learning by doing — every project, contest, and line of code is a step forward.
-
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=kamepalliakhilesh-cpu&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/kamepalliakhilesh-cpu)
-[![GitHub followers](https://img.shields.io/github/followers/kamepalliakhilesh-cpu?label=Followers&style=social)](https://github.com/kamepalliakhilesh-cpu?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/-Akhilesh%20Kamepalli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-kamepalli-245572386/)
+<p align="center">
+  <a href="https://github.com/kamepalliakhilesh-cpu"><img src="https://komarev.com/ghpvc/?username=kamepalliakhilesh-cpu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
+  <a href="https://github.com/kamepalliakhilesh-cpu?tab=followers"><img src="https://img.shields.io/github/followers/kamepalliakhilesh-cpu?label=Followers&style=social" alt="GitHub followers" /></a>
+  <a href="https://www.linkedin.com/in/akhilesh-kamepalli-245572386/"><img src="https://img.shields.io/badge/-Akhilesh%20Kamepalli-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kamepalliakhilesh@gmail.com"><img src="https://img.shields.io/badge/Email-kamepalliakhilesh%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
@@ -192,50 +195,21 @@ Game development project exploring the roguelike genre with RPG progression and 
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" alt="" />
-</div>
-
-<br>
-
-<h3 align="center">⚡ LeetCode Activity</h3>
+### ⚡ LeetCode Activity
 
 <div align="center">
 
-<!-- Custom neon cyberpunk palette: dark bg → electric cyan/magenta/amber accents -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/k_v_akhilesh?theme=wtf&font=Fira%20Code&ext=heatmap&border=0&radius=20" />
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/k_v_akhilesh?theme=light&font=Fira%20Code&ext=heatmap&border=0&radius=20" />
-  <img alt="LeetCode Heatmap" src="https://leetcard.jacoblin.cool/k_v_akhilesh?theme=wtf&font=Fira%20Code&ext=heatmap&border=0&radius=20" width="520" />
-</picture>
-
-
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/k_v_akhilesh?theme=wtf&font=Fira%20Code&ext=heatmap&border=0&radius=20)](https://leetcode.com/u/k_v_akhilesh/)
 
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" alt="" />
-</div>
-
-<br>
-
-<h3 align="center">🍳 CodeChef Activity</h3>
+### 🍳 CodeChef Activity
 
 <div align="center">
 
-<!-- CodeChef Rating Badge -->
-<a href="https://www.codechef.com/users/k_v_akhilesh">
-  <img src="https://cp-logo.vercel.app/codechef/k_v_akhilesh" alt="CodeChef Rating" height="40" />
-</a>
-
-<br><br>
-
-<!-- CodeChef Heatmap (dark themed) -->
-<a href="https://www.codechef.com/users/k_v_akhilesh">
-  <img src="https://codechef-api.vercel.app/handle/k_v_akhilesh" alt="CodeChef Heatmap" width="85%" />
-</a>
+[![CodeChef Stats](https://raw.githubusercontent.com/kamepalliakhilesh-cpu/kamepalliakhilesh-cpu/codechef-stats/codechef-stats.svg)](https://www.codechef.com/users/k_v_akhilesh)
 
 </div>
 
@@ -301,6 +275,7 @@ I focus on **understanding fundamentals** before chasing trends, **building prac
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-kamepalliakhilesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamepalliakhilesh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kamepalliakhilesh--cpu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamepalliakhilesh-cpu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh%20Kamepalli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-kamepalli-245572386/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-k__v__akhilesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/k_v_akhilesh/)
@@ -325,44 +300,6 @@ I focus on **understanding fundamentals** before chasing trends, **building prac
 </picture>
 
 </div>
-
-> 💡 **Setup Required:** To enable the snake animation, create the GitHub Actions workflow below in your profile repository.
-
-<details>
-<summary>📋 GitHub Actions Workflow for Snake Animation</summary>
-
-Create `.github/workflows/snake.yml` in your `kamepalliakhilesh-cpu` profile repository:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake Game from GitHub Contribution Grid
-        uses: Platane/snk@v3
-        with:
-          github_user_name: kamepalliakhilesh-cpu
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
