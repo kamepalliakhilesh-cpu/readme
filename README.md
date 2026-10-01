@@ -199,7 +199,7 @@ Game development project exploring the roguelike genre with RPG progression and 
 
 <div align="center">
 
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/k_v_akhilesh?theme=wtf&font=Fira%20Code&ext=heatmap&border=0&radius=20)](https://leetcode.com/u/k_v_akhilesh/)
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/k_v_akhilesh?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20)](https://leetcode.com/u/k_v_akhilesh/)
 
 </div>
 
